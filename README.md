@@ -1,2 +1,2 @@
-nam 20223069
+nam	20223069
 kookminuniv sw
