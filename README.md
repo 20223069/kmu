@@ -1,2 +1,2 @@
-20223069 nam
+20223069 yunchan
 kookminuniv sw
