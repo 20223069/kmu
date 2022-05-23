@@ -1,3 +1,3 @@
 20223069 nam
 kookminuniv sw
-Local commit
+CLI practice
